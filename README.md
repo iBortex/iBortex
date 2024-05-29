@@ -20,25 +20,25 @@ Hello, folks! 👋 I’m Daniel
 
 💡Skills💡:
 
--Microsoft SQL Server
--Google Cloud Platform
--Python
--R Studio
--SSIS
--Tableau
--Microsoft Excel
--Microsoft Office
--VBA
+- Microsoft SQL Server
+- Google Cloud Platform
+- Python
+- R Studio
+- SSIS
+- Tableau
+- Microsoft Excel
+- Microsoft Office
+- VBA
 
 
 
 
 
 ⚡Python Libraries⚡:
--Pandas
--NumPy
--Scikit-Learn
--Matplotlib
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
 
 
