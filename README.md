@@ -14,25 +14,31 @@ Hello, folks! 👋 I’m Daniel
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/daniel-alfonso-57738a1a1/) or [Email](mailto:daniel.f.alfonso@gmail.com)
 
 
+
+
  
 
 💡Skills💡:
 
-Microsoft SQL Server
-Google Cloud Platform
-Python
-R Studio
-SSIS
-Tableau
-Microsoft Excel
-Microsoft Office
-VBA
+-Microsoft SQL Server
+-Google Cloud Platform
+-Python
+-R Studio
+-SSIS
+-Tableau
+-Microsoft Excel
+-Microsoft Office
+-VBA
+
+
+
+
 
 ⚡Python Libraries⚡:
-Pandas
-NumPy
-Scikit-Learn
-Matplotlib
+-Pandas
+-NumPy
+-Scikit-Learn
+-Matplotlib
 
 
 
