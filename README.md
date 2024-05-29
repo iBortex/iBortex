@@ -1,4 +1,5 @@
 Hello, folks! 👋 I’m Daniel
+<br><br>
  
 
 - ✨ About Me in 30 secs✨
@@ -13,7 +14,7 @@ Hello, folks! 👋 I’m Daniel
 
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/daniel-alfonso-57738a1a1/) or [Email](mailto:daniel.f.alfonso@gmail.com)
 
-
+<br><br>
 
 
  
@@ -30,7 +31,7 @@ Hello, folks! 👋 I’m Daniel
 - Microsoft Office
 - VBA
 
-
+<br><br>
 
 
 
@@ -41,7 +42,7 @@ Hello, folks! 👋 I’m Daniel
 - Matplotlib
 
 
-
+<br><br>
  
 
 👩‍💻Projects on Python👩‍💻
