@@ -49,7 +49,7 @@ Hello, folks! 👋 I’m Daniel
 👩‍💻Projects on Python👩‍💻
 
 
-Python Tkinter GUI CodeCrack Application Demo: Click [HERE]([https://github.com/your-repository](https://github.com/iBortex/CodeCrack-PythonUI-Template-Project/blob/main/CodeCrack%20V10.py))
+Python Tkinter GUI CodeCrack Application Demo: Click [HERE](https://github.com/iBortex/CodeCrack-PythonUI-Template-Project/blob/main/CodeCrack%20V10.py)
 <!--
 
 Danny's Diner: Click HERE
