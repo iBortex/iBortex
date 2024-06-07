@@ -40,15 +40,17 @@ Hello, folks! 👋 I’m Daniel
 - NumPy
 - Scikit-Learn
 - Matplotlib
+- Tkinter
 
 
 <br><br>
  
 
 👩‍💻Projects on Python👩‍💻
-<!--
 
-Cleaning Data in SQL: Click HERE
+
+Python Tkinter GUI CodeCrack Application Demo: Click [HERE]([https://github.com/your-repository](https://github.com/iBortex/CodeCrack-PythonUI-Template-Project/blob/main/CodeCrack%20V10.py))
+<!--
 
 Danny's Diner: Click HERE
 
