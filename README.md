@@ -48,8 +48,10 @@ Hello, folks! 👋 I’m Daniel
 
 👩‍💻Projects on Python👩‍💻
 
+Python Jupyter Machine Learning Disease Detection: Click [HERE](https://github.com/iBortex/Python-Disease-X-ML-Detection/tree/main)
 
 Python Tkinter GUI CodeCrack Application Demo: Click [HERE](https://github.com/iBortex/CodeCrack-PythonUI-Template-Project/blob/main/CodeCrack%20V10.py)
+
 <!--
 
 Danny's Diner: Click HERE
