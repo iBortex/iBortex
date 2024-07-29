@@ -24,6 +24,10 @@ Hello, folks! 👋 I’m Daniel
 - Microsoft SQL Server
 - Google Cloud Platform
 - Python
+- Git
+- Linux
+- JavaScript
+- TypeScript
 - R Studio
 - SSIS
 - Tableau
